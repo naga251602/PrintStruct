@@ -2,12 +2,12 @@
 name: Feature Request
 about: Suggest a new feature for this project
 title: ''
-labels: enhancement
+labels: enhancement, good first issue
 assignees: ''
 
 ---
 
-## Describe the feature
+## Description of the feature
 
 - describe in bullet points
 

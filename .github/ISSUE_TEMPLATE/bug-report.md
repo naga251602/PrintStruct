@@ -2,7 +2,7 @@
 name: Bug Report
 about: Reporting bugs in existing code
 title: ''
-labels: bug
+labels: bug, good first issue
 assignees: ''
 
 ---
